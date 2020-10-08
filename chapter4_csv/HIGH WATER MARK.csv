@@ -1,0 +1,9 @@
+Project Name,High Water Mark,
+Oil shrink,0.05,
+Gas shrink,0.1,
+WI,70%,
+NRI,55%,
+Tax rate,25%,
+Depends on,"BEYOND THE PALE - Most Likely, High",
+Outcomes,HWM - High,60%
+,HWM - Low,40%

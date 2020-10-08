@@ -1,0 +1,10 @@
+Project Name,Bat Classic,
+Oil shrink,0.05,
+Gas shrink,0.1,
+WI,20%,
+NRI,15%,
+Tax rate,25%,
+Depends on,BAT COUNTRY CLASSIC - High,
+Outcomes,NEEDS MORE BATS - Low,55%
+,NEEDS MORE BATS - High,45%
+,,

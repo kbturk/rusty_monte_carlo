@@ -1,0 +1,10 @@
+Project Name,NEEDS MORE BATS,
+Oil shrink,0.05,
+Gas shrink,0.1,
+WI,95%,
+NRI,85%,
+Tax rate,25%,
+Depends on,BAT COUNTRY - High or Most Likely,
+Outcomes,NEEDS MORE BATS - Low,60%
+,NEEDS MORE BATS - High,40%
+,,

@@ -1,0 +1,7 @@
+Project Name,Oil shrink,Gas shrink,WI,NRI,Tax rate,Depends on,Outcomes
+BAT COUNTRY,0.05,0.1,0.75,0.60,0.25,,BAT COUNTRY - High
+,,,,,,,0.20
+,,,,,,,BAT COUNTRY - Most Likely
+,,,,,,,0.60
+,,,,,,,BAT COUNTRY - Low
+,,,,,,,0.20
